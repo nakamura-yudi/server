@@ -1,0 +1,49 @@
+{
+ "alunos" :[
+	{	
+		"id":1,
+		"nomeCompleto":"Eduardo Yudi Nakamura",
+		"dataNascimento":"26/02/1999",
+		"email":"eduardo.yudi.nakamura@gmail.com",
+		"ra":"101710628",
+		"cidade":"Irapuru",
+		"curso":"Ciência da Computação",
+		"nivelSatisfacao":"Gostando",
+		"nivelDificuldade":"difícil"
+	},
+	{		
+		"id":2,
+		"nomeCompleto":"João Antonio",
+		"dataNascimento":"19/06/2000",
+		"email":"joao.antonio@hotmail.com",
+		"ra":"101810123",
+		"cidade":"Indiana",
+		"curso":"Ciência da Computação",
+		"nivelSatisfacao":"Gostando",
+		"nivelDificuldade":"difícil"
+	},
+	{		
+		"id":3,
+		"nomeCompleto":"Victor Algusto Maion",
+		"dataNascimento":"08/07/1998",
+		"email":"victor.maion@gmail.com",
+		"ra":"101610418",
+		"cidade":"Adamantina",
+		"curso":"Engenharia Civil",
+		"nivelSatisfacao":"Gostando",
+		"nivelDificuldade":"difícil"
+	},
+	{		
+		"id":4,
+		"nomeCompleto":"Gustavo Henrique Maion",
+		"dataNascimento":"05/04/2000",
+		"email":"gustavo.maion@outlook.com",
+		"ra":"101910318",
+		"cidade":"Adamantina",
+		"curso":"Agronomia",
+		"nivelSatisfacao":"Gostando",
+		"nivelDificuldade":"medio"
+	},
+
+	]
+}
